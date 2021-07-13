@@ -181,5 +181,7 @@ footer p{
         border-image: linear-gradient(salmon, tomato);
         border-image-slice: 1;
     }
-    
+    footer p{
+        margin-bottom: 220px;
+    }
 }

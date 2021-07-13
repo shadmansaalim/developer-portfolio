@@ -164,5 +164,16 @@ footer p{
         position: relative;
         top: 0px;
     }
+    #web-dev-experience{
+        border-left: 7px solid;
+        border-image: linear-gradient(blue, cyan);
+        border-image-slice: 1;
+    }
+    
+    #full-stack-exp{
+        border-left: 7px solid;
+        border-image: linear-gradient(salmon, tomato);
+        border-image-slice: 1;
+    }
     
 }

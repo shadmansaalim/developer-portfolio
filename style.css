@@ -157,7 +157,7 @@ footer p{
     .experience-item{
         margin-bottom: 20px;
         width: 85%;
-        border-radius: 20px;
+        border-radius: 10px;
         box-shadow: 10px 10px 40px gray;
     }
     .experience-item p{
@@ -166,12 +166,18 @@ footer p{
     }
     #web-dev-experience{
         border-left: 7px solid;
+        border-right: none;
+        border-top: none;
+        border-bottom: none;
         border-image: linear-gradient(blue, cyan);
         border-image-slice: 1;
     }
     
     #full-stack-exp{
         border-left: 7px solid;
+        border-right: none;
+        border-top: none;
+        border-bottom: none;
         border-image: linear-gradient(salmon, tomato);
         border-image-slice: 1;
     }
